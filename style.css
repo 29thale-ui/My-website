@@ -2,3 +2,13 @@
 *Color 1 (Fun Blue): #125DA7
 *Color 2 (American Turqouise): #2D9FDA
 *Color 3 (Fresh Air): #A6EDFD
+*/
+
+img {
+    max-width: 200px;
+}
+
+/* Header Style */
+header{
+    Background-color: #125DA7
+}
