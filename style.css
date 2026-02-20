@@ -12,3 +12,17 @@ img {
 header{
     Background-color: #125DA7
 }
+
+nav a {
+    text-color: #2D9FDA
+}
+
+nav a:hover {
+    color: #A6EDFD
+}
+
+nav a
+/* Footer Style*/
+footer{
+     Background-color: #125DA7
+}
