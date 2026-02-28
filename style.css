@@ -32,9 +32,14 @@ nav .active {
 .btn, .btn:visited {
     background-color: darkorange;
     color: maroon;
+    border: 5px dotted darkmagenta;
+    border-radius: 15px;
+}
+
+#hero {
+    background-image: url(TuffBaseball.jpg);
 }
 /* Footer Style*/
-
 footer{
      Background-color: #125DA7
 }
