@@ -40,6 +40,11 @@ nav .active {
     background-image: url(TuffBaseball.jpg);
     color: #ff00d4;
 }
+
+#Guide {
+background-color: olive;
+color: #ff00d4;
+}
 /* Footer Style*/
 footer{
      Background-color: #125DA7
