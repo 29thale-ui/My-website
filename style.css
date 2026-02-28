@@ -29,7 +29,10 @@ nav .active {
     color: rgb(20, 199, 154);
 }
 
-nav a
+.Button {
+    background-color: darkorange;
+    color: maroon;
+}
 /* Footer Style*/
 
 footer{
