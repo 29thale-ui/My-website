@@ -25,6 +25,10 @@ nav a:hover {
     color: #ff00d4;
 }
 
+nav .active {
+    color: rgb(20, 199, 154);
+}
+
 nav a
 /* Footer Style*/
 
