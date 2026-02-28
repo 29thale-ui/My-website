@@ -59,6 +59,10 @@ color: #ff00d4;
     background-color: black;
     color: blue; 
 }
+
+#image-banner {
+    background-color: #00ffff;
+}
 /* Footer Style*/
 footer{
      Background-color: #ff00d4
