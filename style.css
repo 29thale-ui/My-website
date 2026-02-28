@@ -29,7 +29,7 @@ nav .active {
     color: rgb(20, 199, 154);
 }
 
-.btn {
+.btn, .btn:visited {
     background-color: darkorange;
     color: maroon;
 }
