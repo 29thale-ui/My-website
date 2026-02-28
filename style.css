@@ -69,6 +69,10 @@ color: #ff00d4;
     border-radius: 20px;
 }
 
+#info i {
+    color: #ff00d4;
+}
+
 #btn-banner {
     background-color: #ff00d4;
     color: black; 
