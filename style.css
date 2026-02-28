@@ -57,7 +57,8 @@ color: #ff00d4;
 }
 
 #btn-banner {
-    
+    background-color: black;
+    color: blue; 
 }
 /* Footer Style*/
 footer{
