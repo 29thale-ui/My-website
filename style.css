@@ -50,6 +50,11 @@ color: #ff00d4;
     background-color: black;
     color: blue;
 }
+
+#info {
+    background-color:blue
+    color: #ff00d4;
+}
 /* Footer Style*/
 footer{
      Background-color: #ff00d4
