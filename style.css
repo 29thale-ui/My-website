@@ -56,6 +56,10 @@ color: #ff00d4;
     color: blue;
 }
 
+#about img {
+    border: 5px dashed #ff00d4;
+}
+
 #info {
     background-color:blue
 }
