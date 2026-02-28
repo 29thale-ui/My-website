@@ -42,7 +42,7 @@ nav .active {
 }
 
 #Guide {
-background-color:#125DA7;
+background-color:blue;
 color: #ff00d4;
 }
 
@@ -65,5 +65,5 @@ color: #ff00d4;
 }
 /* Footer Style*/
 footer{
-     Background-color: #ff00d4
+     Background-color: #ff00d4;
 }
