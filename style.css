@@ -64,6 +64,11 @@ color: #ff00d4;
     background-color:blue
 }
 
+#info img {
+    border: 3px groove black;
+    border-radius: 20px;
+}
+
 #btn-banner {
     background-color: #ff00d4;
     color: black; 
