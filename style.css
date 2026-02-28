@@ -30,10 +30,15 @@ nav .active {
 }
 
 .btn, .btn:visited {
-    background-color: darkorange;
-    color: maroon;
-    border: 5px dotted darkmagenta;
+    background-color: black;
+    color: blue;
+    border: 5px dotted #ff00d4;
     border-radius: 15px;
+}
+
+.btn:hover {
+    background-color: #ff00d4;
+    color: blue;
 }
 
 #hero {
