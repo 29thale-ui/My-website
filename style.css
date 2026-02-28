@@ -2,7 +2,7 @@
 *Color 1 (Fun Blue): #125DA7
 *Color 2 (American Turqouise): #2D9FDA
 *Color 3 (Fresh Air): #A6EDFD
-*/
+    */
 
 img {
     max-width: 200px;
@@ -13,8 +13,12 @@ header{
     Background-color: #125DA7
 }
 
+#logo {
+    border-radius: 30px;
+}
+
 nav a {
-    text-color: #2D9FDA
+    text-color: #ff0000
 }
 
 nav a:hover {
@@ -23,6 +27,7 @@ nav a:hover {
 
 nav a
 /* Footer Style*/
+
 footer{
      Background-color: #125DA7
 }
