@@ -45,6 +45,11 @@ nav .active {
 background-color: olive;
 color: #ff00d4;
 }
+
+#about {
+    background-color: black;
+    color: blue;
+}
 /* Footer Style*/
 footer{
      Background-color: #125DA7
