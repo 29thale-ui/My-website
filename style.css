@@ -23,7 +23,13 @@ body {
     font-size: 20px;
 }
 
+h1, h2, h3, h4 {
+    font-family: Baseball, cursive, fantasy;
+}
 
+h1 {
+    font-size: 2em;
+}
 
 /* Header Style */
 header{
