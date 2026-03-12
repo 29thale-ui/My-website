@@ -4,9 +4,25 @@
 *Color 3 (Fresh Air): #A6EDFD
     */
 
-img {
+    img {
     max-width: 200px;
 }
+
+@font-face {
+    font-family: Baseball;
+    src: url(Baseball.otf);
+}
+
+@font-face {
+    font-family: Beach;
+    src: url(Beach.ttf);
+}
+
+body {
+    font-family: Beach, Wavy, cursive;
+}
+
+
 
 /* Header Style */
 header{
