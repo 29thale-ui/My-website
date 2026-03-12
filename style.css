@@ -51,20 +51,15 @@ header{
     border-radius: 50px;
 }
 
-nav a {
+nav a, nav a:visited{
     color: #bbff00;
     text-decoration: none;
+    color: #000000;
 }
 
 nav a:hover {
     color: #000000;
 }
-
-nav a:visited {
-    color: gold;
-}
-
-
 
 nav .active {
     color: rgb(20, 199, 154);
