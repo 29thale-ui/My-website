@@ -70,6 +70,7 @@ nav .active {
     color: blue;
     border: 5px dotted #ff00d4;
     border-radius: 15px;
+    font-size: 1.25em;
 }
 
 .btn:hover {
