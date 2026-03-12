@@ -60,6 +60,12 @@ nav a:hover {
     color: #000000;
 }
 
+nav a:visited {
+    color: gold;
+}
+
+
+
 nav .active {
     color: rgb(20, 199, 154);
 }
