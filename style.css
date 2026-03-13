@@ -80,11 +80,13 @@ nav a.active {
 #hero {
     background-image: url(TuffBaseball.jpg);
     color: #ff00d4;
+    text-align: center;
 }
 
 #Guide {
 background-color:blue;
 color: #ff00d4;
+font-size: 2em;
 }
 
 #about {
