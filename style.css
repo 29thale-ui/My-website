@@ -121,6 +121,7 @@ font-size: 1.25em;
     flex: 48%;
 }
 
+
 #info {
     background-color:blue
 }
@@ -132,6 +133,10 @@ font-size: 1.25em;
 
 #info i {
     color: #ff00d4;
+}
+
+#info flex-item {
+    flex: 48%;
 }
 
 #btn-banner {
