@@ -156,6 +156,10 @@ footer{
      color: black;
 }
 
+footer li {
+    display: inline;
+}
+
 .flex-container {
     display: flex;
     align-items: center;
