@@ -155,6 +155,7 @@ font-size: 1.25em;
 footer{
      Background-color: #ff00d4;
      color: black;
+     text-align: center;
 }
 
 footer li {
