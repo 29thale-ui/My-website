@@ -149,6 +149,7 @@ font-size: 1.25em;
 
 #image-banner {
     background-color: black;
+    max-width: 100px;
 }
 /* Footer Style*/
 footer{
