@@ -135,6 +135,7 @@ font-size: 1.25em;
 
 #info i {
     color: #ff00d4;
+    float: left;
 }
 
 #info flex-item {
