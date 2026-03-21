@@ -42,7 +42,10 @@ header{
    background-color: #ff00d4;
    display: flex;
    justify-content: space-between;
-   max-width: 200px;
+}
+
+header img {
+       max-width: 200px;
 }
 
 #logo {
@@ -92,6 +95,10 @@ nav li {
 background-color:blue;
 color: #ff00d4;
 font-size: 1.25em;
+}
+
+#Guide flex-item {
+    flex: 33%;
 }
 
 #about {
