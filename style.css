@@ -41,6 +41,7 @@ h3 {
 header{
    background-color: #ff00d4;
    display: flex;
+   justify-content: space-between;
 }
 
 #logo {
