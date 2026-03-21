@@ -101,6 +101,11 @@ font-size: 1.25em;
     flex: 33%;
 }
 
+#guide img {
+    display: block;
+    max-height: 300px;
+}
+
 #about {
     background-color: black;
     color: blue;
