@@ -123,3 +123,13 @@ footer{
      Background-color: #ff00d4;
      color: black;
 }
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    gap: 5%;
+}
+
+.flex-container img {
+    width: 100%;
+}
