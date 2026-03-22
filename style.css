@@ -160,8 +160,8 @@ font-size: 1.25em;
 #info img {
     border: 3px groove black;
     border-radius: 50px;
-    max-width: 250px;
     max-height: 300px;
+    object-fit: cover;
 }
 
 #info i {
