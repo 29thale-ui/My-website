@@ -227,7 +227,7 @@ footer i {
 
 .img-gallery {
     width: 100%;
-    max-width: 950px;
+    max-width: 200px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
