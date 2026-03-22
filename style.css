@@ -311,3 +311,9 @@ footer i {
     transition: all .3s ease;
 }
 
+.img-box:hover .details .catagory {
+    bottom: 0;
+    opacity: 1;
+    visibility: visible;
+    transition: all .3s .2s ease;
+}
