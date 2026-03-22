@@ -144,7 +144,8 @@ font-size: 1.25em;
 
 #about img {
     border: 5px dashed #ff00d4;
-}
+    max-width: 200px;
+    }
 
 #about .flex-item{
     flex: 48%;
