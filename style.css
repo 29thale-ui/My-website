@@ -187,8 +187,10 @@ font-size: 1.25em;
 }
 
 #image-banner img {
+    margin: auto;
     max-width: 200px
 }
+
 /* Footer Style*/
 footer{
      Background-color: #ff00d4;
