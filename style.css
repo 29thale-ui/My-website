@@ -235,3 +235,9 @@ footer i {
     grid-auto-flow: dense;
     grid-gap: 20px;
 }
+
+.img-box {
+    position: relative;
+    background-color: black;
+    overflow: hidden;
+}
