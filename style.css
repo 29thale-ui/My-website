@@ -295,3 +295,10 @@ footer i {
     visibility: hidden;
     transition: all .3s ease;
 }
+
+.img-box:hover .details .title {
+    top: 0;
+    opacity: 1;
+    visibility: visible;
+    transition: .3s .2s ease;
+}
