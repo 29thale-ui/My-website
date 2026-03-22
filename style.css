@@ -146,8 +146,10 @@ font-size: 1.25em;
     border: 5px dashed #ff00d4;
 }
 
-#about flex-item{
+#about .flex-item{
     flex: 48%;
+    margin-top: 1em;
+    padding-bottom: 2em;
 }
 
 
