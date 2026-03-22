@@ -217,3 +217,9 @@ footer i {
 .flex-container img {
     width: 100%;
 }
+
+#gallery-page h1 {
+    letter-spacing: 2px;
+    text-shadow: 1px 1px blue;
+    margin: 0;
+}
