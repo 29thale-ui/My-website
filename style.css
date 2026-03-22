@@ -117,7 +117,7 @@ color: #ff00d4;
 font-size: 1.25em;
 }
 
-#Guide flex-item {
+#Guide .flex-item {
     flex: 33%;
 }
 
@@ -169,7 +169,7 @@ font-size: 1.25em;
     float: left;
 }
 
-#info flex-item {
+#info .flex-item {
     flex: 48%;
 }
 
