@@ -149,7 +149,7 @@ font-size: 1.25em;
 #about .flex-item{
     flex: 48%;
     margin-top: 1em;
-    padding-bottom: 2em;
+    padding-left: 2em
 }
 
 
