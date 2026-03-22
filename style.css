@@ -107,6 +107,10 @@ nav li {
     background-size: cover;
 }
 
+#btn-banner {
+    text-align: center;
+}
+
 #Guide {
 background-color:blue;
 color: #ff00d4;
