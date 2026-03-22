@@ -280,3 +280,7 @@ footer i {
     left: 20px;
     opacity: 1;
 }
+
+.img-box .details {
+    text-align: center;
+}
