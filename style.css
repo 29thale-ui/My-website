@@ -78,6 +78,7 @@ nav a:active {
 
 nav li {
     display: inline;
+    padding: .5em;
 }
 
 .btn, .btn:visited {
