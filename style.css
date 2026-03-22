@@ -76,9 +76,14 @@ nav a:active {
     font-size: 1.75em;
 }
 
+nav ul {
+    margin-top: 3em;
+    margin-right: 1.5em;
+}
+
 nav li {
     display: inline;
-    padding: .5em;
+    padding: .75em;
 }
 
 .btn, .btn:visited {
