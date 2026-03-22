@@ -49,6 +49,7 @@ header{
    background-color: #ff00d4;
    display: flex;
    justify-content: space-between;
+   padding: .5em;
 }
 
 header img {
