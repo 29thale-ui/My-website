@@ -124,7 +124,7 @@ font-size: 1.25em;
 #Guide img {
     display: block;
     max-height: 300px;
-    max-width: 250px;
+    width: 50%;
     margin: auto;
 }
 
