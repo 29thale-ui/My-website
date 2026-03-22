@@ -284,3 +284,7 @@ footer i {
 .img-box .details {
     text-align: center;
 }
+
+.img-box .details .title {
+    margin-bottom: 8px;
+}
