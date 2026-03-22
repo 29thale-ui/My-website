@@ -157,6 +157,10 @@ font-size: 1.25em;
 #image-banner {
     background-color: black;
 }
+
+#image-banner img {
+    max-width: 250px
+}
 /* Footer Style*/
 footer{
      Background-color: #ff00d4;
