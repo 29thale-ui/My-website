@@ -272,3 +272,11 @@ footer i {
     transition: all .5s ease;
     z-index: 1;
 }
+
+.img-box:hover .overlay {
+    top: 20px;
+    right: 20px;
+    bottom: 20px;
+    left: 20px;
+    opacity: 1;
+}
