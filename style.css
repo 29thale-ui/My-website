@@ -253,3 +253,7 @@ footer i {
     object-fit: contain;
     transition: all .5s;
 }
+
+.img-box:hover img {
+    transform: scale(1.1);
+}
