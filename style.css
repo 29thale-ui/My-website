@@ -341,3 +341,7 @@ footer i {
 #tablePage table th {
     font-size: 1.3em;
 }
+
+#tablePage img {
+    border: 2px solid pink;
+}
