@@ -325,3 +325,8 @@ footer i {
 #tablePage section .flex-item {
     flex: 50%;
 }
+
+#tablePage table {
+    border-collapse: collapse;
+    margin-left: 50px;
+}
