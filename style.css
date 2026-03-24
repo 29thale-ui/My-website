@@ -320,6 +320,8 @@ footer i {
 
 #tablePage section {
     border-bottom: 5px dashed blue;
+    max-width: 75%;
+    margin: auto;
 }
 
 #tablePage section .flex-item {
