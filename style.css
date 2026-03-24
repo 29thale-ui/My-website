@@ -330,3 +330,7 @@ footer i {
     border-collapse: collapse;
     margin-left: 50px;
 }
+
+#tablePage table td, th {
+    border: 3px solid hotpink;
+}
