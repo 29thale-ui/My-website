@@ -319,5 +319,9 @@ footer i {
 }
 
 #tablePage section {
-    border: 5px dashed blue;
+    border-bottom: 5px dashed blue;
+}
+
+#tablePage section .flex-item {
+    flex: 50%;
 }
