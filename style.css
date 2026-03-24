@@ -317,3 +317,7 @@ footer i {
     visibility: visible;
     transition: all .3s .2s ease;
 }
+
+#tablePage section {
+    border: 5px dashed blue;
+}
