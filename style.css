@@ -86,8 +86,8 @@ nav li {
     padding: .75em;
 }
 
-body .btn {
-    color: blue;
+.btn {
+    color: blue !important;
 }
 
 
