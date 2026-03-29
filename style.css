@@ -339,7 +339,7 @@ footer i {
 }
 
 #tablePage table td, th {
-    border: 100000px solid hotpink;
+    border: 3px solid hotpink;
     padding: 15px;
 }
 
