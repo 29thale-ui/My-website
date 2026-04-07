@@ -96,20 +96,9 @@ button {
     cursor: pointer;
 }
 
-
-.btn, .btn:visited {
-    background-color: black;
-    color: blue;
-    border: 5px solid white;
-    border-radius: 15px;
-    font-size: 1.25em;
-    padding: .5em 1em;
-    cursor: pointer;
-}
-
-.btn:hover {
-    background-color:black;
-    color: blue;
+button:hover {
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 255, 234);
 }
 
 #hero {
