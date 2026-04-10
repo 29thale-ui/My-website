@@ -99,7 +99,11 @@ button {
 button:hover {
     background-color:rgb(255, 255, 255);
     color:#ff00d4
-    border: 5px solid #ff00d4;
+}
+
+button:visited {
+    background-color: aqua;
+    color: deeppink;
 }
 
 #hero {
