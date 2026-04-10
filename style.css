@@ -98,7 +98,7 @@ button {
 
 button:hover {
     background-color:rgb(255, 255, 255);
-    color: rgb(0, 255, 234);
+    color:#ff00d4
 }
 
 #hero {
