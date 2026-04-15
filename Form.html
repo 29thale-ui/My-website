@@ -24,7 +24,7 @@
     </header>
 
     <h1>Mentore Lessons Availible</h1>
-    <form action="" method="post" autocomplete="on" id="form"></form>
+    <form action="" method="post" autocomplete="on" id="form">
     <feildset>
         <legend>Basic Information</legend>
         <label for="name">Full Name:</label>
@@ -94,7 +94,15 @@
         </fieldset>
 
         <input type="submit" value="Submit Workout Form" id="submitBtn">
-
+        </form>
+   <script>
+        document.getElementById('form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            alert('YOUR MESSAGE HERE');
+            document.getElementById('form').reset();
+            confetti();
+        });
+    </script>
      <footer>
     <h2>Contact us</h2>
     <p>Email us at: BaseballPitches@MLB.com</p>  
