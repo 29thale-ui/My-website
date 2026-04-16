@@ -27,8 +27,15 @@
     <form action="" method="post" autocomplete="on" id="form">
     <feildset>
         <legend>Basic Information</legend>
-        <lable for="name">Full Name:</lable>
-        <Input type="text" id="name" name="fullName" required></br>
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="fullName" required><br>
+        <Label for="Date">Day you want to train</Label>
+        <input type="month" id="Workout day" name="Workout day"><br>
+        <label for="cell">Cell phone number</label>
+        <input type="tel" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="123-546-7890" required><br>
+        <label for="county">Country</label>
+        <input type="text" pattern="[A-Za-z]{3}" placeholder="USA">
+        </feildset>
 
         <fieldset>
             <legend>What type of pitch</legend>
@@ -67,18 +74,17 @@
             <legend>Amount of Experience</legend>
             <h4>Select how many years of Experience you or your child has</h4>
 
-           <input type="radio" id="none" name="experience">
+            <input type="ratio" id="none" name="none">
             <label for="none">No years of Experience</label><br>
 
-            <input type="radio" id="little" name="experience">
+            <input type="ratio" id="little" name="little">
             <label for="little">3-8 years of Experience</label><br>
 
-            <input type="radio" id="moderate" name="experience">
-            <label for="moderate">9-13 years of Experience</label><br>
+            <input type="ratio" id="Moderate" name="Moderate">
+            <label for="Moderate">9-13 years of Experience</label><br>
 
-            <input type="radio" id="aLot" name="experience">
-            <label for="aLot">14-20 years of Experience</label><br>
-
+            <input type="ratio" id="aLot" name="aLot">
+            <label for aLot>14-20 years of Experience</label><br>
         </fieldset>
 
         <fieldset>
@@ -92,7 +98,7 @@
    <script>
         document.getElementById('form').addEventListener('submit', function(event) {
             event.preventDefault();
-            alert('Thank you for scheduling with us:)');
+            alert('YOUR MESSAGE HERE');
             document.getElementById('form').reset();
             confetti();
         });
