@@ -361,6 +361,6 @@ form {
 form fieldset {
     margin-bottom: 20px;
     border-radius: .8rem;
-    background-color: blue;
+    background-color: rgb(0, 153, 255);
     padding: 20px;
 }
