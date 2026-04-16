@@ -374,3 +374,16 @@ form h4 {
 form legend {
     color: rgb(243, 46, 144);
 }
+
+form #submitBtn {
+    width: 15rem;
+    padding: .8rem;
+    font-size: 1.2rem;
+    background-color: blue;
+    color: #ff00d4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1.5px solid black;
+    border-radius: .5rem;
+    display: block;
+    margin: auto;
+}
