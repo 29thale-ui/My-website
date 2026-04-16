@@ -357,3 +357,10 @@ form {
     max-width: 800px;
     margin-bottom: 30px;
 }
+
+form fieldset {
+    margin-bottom: 20px;
+    border-radius: .8rem;
+    background-color: blue;
+    padding: 20px;
+}
