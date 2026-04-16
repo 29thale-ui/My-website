@@ -370,3 +370,7 @@ form h4 {
     margin-bottom: 5px;
     font-weight: normal;
 }
+
+form legend {
+    color: rgb(243, 46, 144);
+}
